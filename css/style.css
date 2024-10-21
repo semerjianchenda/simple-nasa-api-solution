@@ -1,0 +1,39 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+h1{
+  text-align: center;
+}
+input{
+  margin-left: 620px;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+
+}
+iframe{
+  border: none;
+  margin-left: 400px;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
